@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/visheshk27/visheshk27/main/carbon(2).png" />
+  <img width="100%" src="https://raw.githubusercontent.com/visheshk27/visheshk27/main/carbon(1).png" />
 	</p>
 							 
 ## Languages and Tools:
