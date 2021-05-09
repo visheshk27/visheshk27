@@ -16,7 +16,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <h3>I'm part of these organisations:</h3>
+      <h3>I'm founder of this organisations:</h3>
       <table>
         <tr>
           <td align="center" width="200">
