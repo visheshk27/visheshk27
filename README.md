@@ -39,14 +39,14 @@
         <tr>
           <td align="left" width="300">
 <p align="center">
-            <a href="https://twitter.com/visheshk27_">
+            <a href="https://twitter.com/visheshk27">
               <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
             </a>
 </p>
           </td>
 	  <td align="left" width="300">
 <p align="center">
-            <a href="https://www.linkedin.com/in/Vishesh-tata63/">
+            <a href="https://www.linkedin.com/in/vishesh-khatri-5b6225202/">
               <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
             </a>
 </p>
@@ -55,14 +55,14 @@
 	<tr>
           <td align="left" width="300">
 <p align="center">
-            <a href="https://www.youtube.com/channel/UCDOJcRyIWd2k2wFSfme5CVA">
+            <a href="https://www.youtube.com/c/Crackingfactory/videos">
               <img width="30%"src="iconfinder_social_media_isometric_2-youtube_3529652.png" />
             </a>
 </p>
           </td>
 	  <td align="left" width="300">
 <p align="center">
-            <a href="https://discord.gg/RZAwxWv62A">
+            <a href="https://discord.gg/A3sjC3smDC">
               <img width="30%"src="https://raw.githubusercontent.com/visheshk27/visheshk27/main/2363208-app-chat-discord-game-gamer-social_85471.png" />
             </a>
 </p>
@@ -80,8 +80,8 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
-- [Workshop on "The World of Open Source" (No Prerequisites Needed)](https://www.youtube.com/watch?v=UG3HHy-HKiE)
-- [IoT Simplified - How does it work?](https://www.youtube.com/watch?v=vng5RJolByA)
+- [HOW TO CONVERT TEXT TO HANDWRITING FOR FREE"](https://www.youtube.com/watch?v=8eFiHtQ4-fg)
+- [HOW TO CRACK PREMIUM ACCOUNTS](https://www.youtube.com/watch?v=AXqm3b1XxBs)
 <!-- YOUTUBE:END -->
 
  <h2>🥇 Open Source Projects open for contributions. </h2>
