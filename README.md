@@ -2,6 +2,8 @@
   <img width="1000px" height="200px" src="hello.gif" alt="hello">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=visheshk27&label=Profile%20views&color=0e75b6&style=flat" alt="visheshk27" /> </p>
+
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/visheshk27/visheshk27/main/carbon (1).png" />
 	</p>
